@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "name" : "Grand Piano",
+        "price": 2500,
+        "type": "mannual",
+        "description": "blah blah blah"
+    },
+    {
+        "id" : 2,
+        "name" : "Electric Guitar",
+        "price": 8500,
+        "type": "Electric",
+        "description": "blah blah blah"
+    },
+    {
+        "id" : 3,
+        "name" : "Drums",
+        "price": 10500,
+        "type": "Manual",
+        "description": "blah blah blah"
+    },
+    {
+        "id" : 4,
+        "name" : "Electric Drums",
+        "price": 12500,
+        "type": "Electric",
+        "description": "blah blah blah"
+    }
+]
